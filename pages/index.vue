@@ -1,0 +1,3 @@
+<template>
+  <TaskBoard />
+</template>
